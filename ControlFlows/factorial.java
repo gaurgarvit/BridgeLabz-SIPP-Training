@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Factorial{
+public class factorial{
     public static void main(String[] args) {
         Scanner s= new Scanner(System.in);
         int n= s.nextInt();
