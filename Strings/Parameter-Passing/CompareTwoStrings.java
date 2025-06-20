@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class CompareTwoStrings {
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
+        Scanner s= new Scanner(System.in);
         System.out.println("Enter String 1:");
 
         String str1 = s.nextLine();
