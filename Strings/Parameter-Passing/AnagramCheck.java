@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class AnagramCheck {
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
+        Scanner s= new Scanner(System.in);
         System.out.println("Enter first string:");
 
         String str1 = s.nextLine();
