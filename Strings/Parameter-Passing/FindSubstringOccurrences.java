@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class FindSubstringOccurrences {
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
+        Scanner s= new Scanner(System.in);
         System.out.println("Enter the main string:");
 
         String mainString = s.nextLine();
